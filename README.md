@@ -1,1 +1,1 @@
-# week-1-assignment
+# using the input() function
